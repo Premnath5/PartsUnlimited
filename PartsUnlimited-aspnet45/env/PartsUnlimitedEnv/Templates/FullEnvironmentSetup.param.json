@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "WebsiteName": {
-      "value": null
+      "value": "nextopslabswa01"
     },
     "PUL_ServerName": {
-      "value": null
+      "value": "nextopslabssnsql01"
     },
     "PUL_DBLogin": {
       "value": "AdminUser"
@@ -27,7 +27,7 @@
       "value": "Basic"
     },
     "PUL_HostingPlanName": {
-      "value": null
+      "value": "nextopsloabsasp01"
     },
     "PUL_HostingPlanSKU": {
       "value": "Standard"
